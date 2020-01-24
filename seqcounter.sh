@@ -2,3 +2,5 @@
 
 for file in *.fas; do echo $file; grep -c '>' $file; done
 echo done
+echo done
+
